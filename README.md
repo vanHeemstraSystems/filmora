@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+filmorae
+# Filmora
 
-Based on "ABC" at https://www.abc.com/
+> Video Editor
+
+Based on "Wondershare Filmora Video Editor - YouTube Channel" at https://www.youtube.com/channel/UCY_LMaDAoa6hwHKBE4Dx56w
 
 ## 100 - Introduction
 
